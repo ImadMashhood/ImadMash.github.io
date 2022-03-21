@@ -699,3 +699,30 @@ form .form-control {
 .vesco-top-nav ul.navbar-nav > li.active > a {
   color: #8838ff;
 }
+
+/* Buttons */
+.btn-general {
+  padding: 6px 22px;
+  font-size: 14px;
+  background: #8838ff;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #e4e6eb;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+.btn-general:hover {
+  transition: all 0.2s ease-in-out;
+  padding: 6px 22px;
+  font-size: 14px;
+  background: #00f6ff;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #000;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
