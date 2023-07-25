@@ -134,7 +134,7 @@ h3 {
 .btn-white:hover,
 .btn-white:focus {
   background-color: #fff;
-  color: #8838ff;
+  color: #4a7f97;
 }
 
 .btn-blue {
@@ -202,7 +202,7 @@ h3 {
 .content-title-underline {
   width: 30px;
   height: 3px;
-  background-color: #8838ff;
+  background-color: #4a7f97;
   margin: 0 auto 30px auto;
 }
 
@@ -221,7 +221,7 @@ h3 {
 }
 
 .service-item-icon i {
-  color: #8838ff;
+  color: #4a7f97;
   float: left;
   padding: 15px;
   margin-right: 25px;
@@ -232,7 +232,7 @@ h3 {
 
 .service-item:hover .service-item-icon i {
   color: #fff;
-  background-color: #8838ff;
+  background-color: #4a7f97;
 }
 
 .service-item-title h3 {
@@ -336,7 +336,7 @@ h4.team-member-name {
 }
 
 h4.team-member-designation {
-  color: #8838ff;
+  color: #4a7f97;
   font-size: 15px;
   font-weight: 700;
   font-style: italic;
@@ -381,7 +381,7 @@ h4.team-member-description {
 }
 
 .social-icon i:hover {
-  color: #8838ff;
+  color: #4a7f97;
 }
 
 /*-----------------------------------------------------------------------------------*/
@@ -697,14 +697,14 @@ form .form-control {
 }
 
 .vesco-top-nav ul.navbar-nav > li.active > a {
-  color: #8838ff;
+  color: #4a7f97;
 }
 
 /* Buttons */
 .btn-general {
   padding: 6px 22px;
   font-size: 14px;
-  background: #8838ff;
+  background: #4a7f97;
   border-radius: 4px;
   text-decoration: none;
   color: #e4e6eb;
